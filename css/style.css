@@ -1,0 +1,14 @@
+.container{
+width: 90%;
+height: 600px;
+border: 5px solid ;
+
+padding: 20px;
+background-color: rgb(206, 230, 223);
+
+}
+
+.cols{
+border: 1px solid red;
+padding: 30px;;
+}
